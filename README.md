@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Samuel Rivera</h1>
 <h3 align="center">A creative developer from Colombia</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">samuel.rivera.mosquera@gmail.com
+<h3 align="right">Connect with me:</h3>
+<p align="right">samuel.rivera.mosquera@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
