@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Samuel Rivera 👋</h1>
-
+<img src="Resources/BlueBG.png" alt="Logo" width="300"/>
 <h3 align="left">What About Me?</h3>
 <p align="left">I am a Software Engineering student. Currently, I am looking for new challenges, offers and opportunities to learn and grow.</p>
 
