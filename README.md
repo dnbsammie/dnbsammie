@@ -14,14 +14,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Featured Projects</h3>
-<p>Project 1:</p>
-<p>Project 2:</p>
-
-<h3 align="left">Certifications</h3>
-<p>SENA: COMPUTER ARCHITECTURE</p>
-<p>Microsoft: </p>
-
 <h3 align="left">Stats</h3>
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dnbsammie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
