@@ -38,5 +38,5 @@ Hi! I’m Samuel, a software engineer who loves making code and solve problems. 
 ![VSCode]({https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
 
 ## Stats
-![Sammie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnbsammie&title_color_(#00040d)&text_color_(#00040d)&icon_color(#00040d)&bg_color(#e6e6e7)&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true)
+![Sammie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnbsammie&theme=nord&show_icons=true))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&title_color_(#00040d)&text_color_(#00040d)&icon_color(#00040d)&bg_color(#e6e6e7)&layout=pie)](https://github.com/dnbsammie/github-readme-stats)
