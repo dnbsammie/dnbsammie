@@ -9,19 +9,19 @@
 
 ## 📱 Links
 
-![Contact](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:seriveramosq@gmail.com)
-![Contact](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
+[![Contact](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:seriveramosq@gmail.com)
+[![Contact](https://skillicons.dev/icons?i=discord&theme=dark)](dnbsammie)
 
 
 ## 🖥 Languages and Tools
 
 ### 🧾 Languages
 
-![Languages](https://skillicons.dev/icons?i=cs,cpp,java,html,css,javascript&theme=dark&perline=3)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,java,html,css,javascript&theme=dark&perline=3)](https://skillicons.dev)
 
 ### 🛠 Tools
 
-![Tools](https://skillicons.dev/icons?i=dotnet,unity,vscode&theme=dark&perline=3)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=dotnet,unity,vscode&theme=dark&perline=3)](https://skillicons.dev)
 
 ## Stats
 ![Sammie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnbsammie&theme=graywhite&show_icons=true))
