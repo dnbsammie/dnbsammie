@@ -29,8 +29,5 @@
 </p>
 <h3>My Stats 🖥</h3>
 <a href="https://github.com/dnbsammie/github-readme-stats">
-  <img height="200" width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&show_icons=true&theme=nord"/>
-</a>
-<a href="https://github.com/dnbsammie/github-readme-stats">
-  <img height="200" width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&layout=donut&theme=nord"/>
+  <img height="200" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&show_icons=true&theme=nord"/>
 </a>
