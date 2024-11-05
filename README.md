@@ -1,42 +1,42 @@
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
-# 👋🏽 What's Up?
+<h1 align="center">👋🏽 What's Up?</h1>
+<img src="./resources/banner.png"></img>
 
-![Logo](./resources/banner.png)
+<h3 align="center">🤔 What About Me?</h3>
+<p>Hi there! I’m Samuel. "I’m a Software Engineer, and I’m really into writing code. I’m always open to new ideas, so feel free to get in touch!</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnbsammie&label=Profile%20views&color=0e75b6&style=flat" alt="dnbsammie" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dnbsammie" alt="dnbsammie" /></a> </p>
+
+<h3>Projects 🛠</h3>
+
+<a href="https://github.com/dnbsammie/MyPortfolio">This is my Portfolio 💻</a>
 
 
-## 🤔 What About Me?
-Hi! I’m Samuel, a software engineer who loves making code and solve problems. i am quite a creative and self-taught person.
-### 📙 Learning:
+<h3 align="left">Languages and Tools 🖥</h3>
 
-![Platzi]({https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white})
-![Udemy]({https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white})
-![W3schools]({https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white})
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css" />
+  </a>
+</p>
 
-## 📱 Links
+<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-![Email]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord]({https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white})
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnbsammie&show_icons=true&locale=en&layout=compact" alt="dnbsammie" /></p>
 
-## 🖥 Languages and Tools
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&show_icons=true&locale=en" alt="dnbsammie" /></p>
 
-### 🧾 Languages
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnbsammie&" alt="dnbsammie" /></p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white})
-![C++]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white})
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<h3 align="left">Get in Touch 📱 </h3>
+<p align="left">
+<a href="https://linkedin.com/in/seriveramosq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seriveramosq" height="30" width="40" /></a>
+<a href="https://instagram.com/@dnbsammie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dnbsammie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dnbsammie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dnbsammie" height="30" width="40" /></a>
+<a href="https://discord.gg/dnbsammie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dnbsammie" height="30" width="40" /></a>
+</p>
 
-### 🛠 Tools
-
-![.NET]({https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white})
-![Unity]({https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white})
-![VSCode]({https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
-
-## Stats
-![Sammie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnbsammie&title_color_(#00040d)&text_color_(#00040d)&icon_color(#00040d)&bg_color(#e6e6e7)&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&title_color_(#00040d)&text_color_(#00040d)&icon_color(#00040d)&bg_color(#e6e6e7)&layout=pie)](https://github.com/dnbsammie/github-readme-stats)
+<a href="https://github.com/dnbsammie/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&show_icons=true&theme=nord"/>
+</a>
