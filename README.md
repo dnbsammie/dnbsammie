@@ -11,7 +11,7 @@
 <ol>
 <li><a href="https://github.com/dnbsammie/MyPortfolio" target="_blank">This is my Portfolio 💻</a></li>
 </ol>
-
+<hr>
 <h3 align="center">Languages and Tools 🛠</h3>
 
 <p align="center">
