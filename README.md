@@ -12,9 +12,8 @@
   <li><a href="https://github.com/dnbsammie/MyPortfolio" target="_blank">This is my Portfolio 💻</a></li>
   <li><a href="https://github.com/dnbsammie/Aural" target="_blank">Aural Music 🎵</a></li>
   <li><a href="https://github.com/dnbsammie/Overdrive" target="_blank">OverDrive 🚗</a></li>
-  <li><a href="https://github.com/dnbsammie/" target="_blank">SoundMorph 🎹</a></li>
-  <li><a href="https://github.com/dnbsammie/" target="_blank">TaskMaster 📓</a></li>
-    <li><a href="https://github.com/dnbsammie/" target="_blank">Trinity 🔫</a></li>
+  <li><a href="https://github.com/dnbsammie/SoundMorph" target="_blank">SoundMorph 🎹</a></li>
+  <li><a href="https://github.com/dnbsammie/Trinity" target="_blank">Trinity 🔫</a></li>
 </ol>
 <hr>
 <h3 align="center">Languages and Tools 🛠</h3>
