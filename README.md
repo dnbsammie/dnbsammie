@@ -45,9 +45,3 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=trinity&theme=transparent"/>
   </a>
 </div>
-
-<hr>
-
-<h2 id="contact">Contact</h2>
-<p><strong>Email:</strong> <a href="mailto:seriveramosq@gmail.com">seriveramosq@gmail.com</a></p>
-<p><strong>GitHub:</strong> <a href="https://github.com/dnbsammie">https://github.com/dnbsammie</a></p>
