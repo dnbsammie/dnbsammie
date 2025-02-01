@@ -18,27 +18,36 @@
 <hr>
 
 <h3>My Github Stats 📈</h3>
-<a href="https://github.com/dnbsammie/github-readme-stats">
-  <img height="200" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&rank_icon=github&show_icons=true&theme=transparent"/>
-</a>
-<a href="https://github.com/dnbsammie/github-readme-stats">
-  <img height="200" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&layout=donut&theme=transparent"/>
-</a>
 
-<hr>
+<div>
+  <a href="https://github.com/dnbsammie/github-readme-stats">
+    <img height="200" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&rank_icon=github&show_icons=true&theme=transparent"/>
+  </a>
+  <a href="https://github.com/dnbsammie/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&layout=donut&theme=transparent"/>
+  </a>
+</div>
+
 
 <h2>Projects 🗃</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=aural&theme=transparent)](https://github.com/dnbsammie/Aural)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=soundmorph&theme=transparent)](https://github.com/dnbsammie/SoundMorph)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=overdrive&theme=transparent)](https://github.com/dnbsammie/Overdrive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=trinity&theme=transparent)](https://github.com/dnbsammie/Trinity)
+<div>
+  <a href="https://github.com/dnbsammie/Aural">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=aural&theme=transparent"/>
+  </a>
+  <a href="https://github.com/dnbsammie/SoundMorph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=soundmorph&theme=transparent"/>
+  </a>
+  <a href="https://github.com/dnbsammie/Overdrive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=overdrive&theme=transparent"/>
+  </a>
+  <a href="https://github.com/dnbsammie/Trinity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=trinity&theme=transparent"/>
+  </a>
+</div>
 
 <hr>
 
-<h3 align="left">Get in Touch 📱</h3>
-<p align="left">
-<a href="https://linkedin.com/in/seriveramosq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seriveramosq" height="30" width="40" /></a>
-<a href="https://instagram.com/dnbsammie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dnbsammie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@dnbsammie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dnbsammie" height="30" width="40" /></a>
-</p>
+<h2 id="contact">Contact</h2>
+<p><strong>Email:</strong> <a href="mailto:seriveramosq@gmail.com">seriveramosq@gmail.com</a></p>
+<p><strong>GitHub:</strong> <a href="https://github.com/dnbsammie">https://github.com/dnbsammie</a></p>
