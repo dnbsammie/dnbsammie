@@ -1,5 +1,5 @@
 <h1 align="center">👋🏽 What's Up?</h1>
-<img src="./resources/banner.png"></img>
+<img src="./resources/banner.png" width="100%"></img>
 
 
 <h2 align="left">🤔 What About Me?</h2>
@@ -7,29 +7,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnbsammie&label=Profile%20views&color=00040d&style=flat" alt="dnbsammie" /> </p>
 
-<h3>Technologies & Tools 🔧</h3>
+<h3>Languages 🔧</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,unity,vscode,visualstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js&theme=dark" />
   </a>
 </p>
-
+<h3>Technologies & Tools 🔧</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,unity,vscode,visualstudio&theme=dark" />
+  </a>
+</p>
 <hr>
 
 <h3>My Github Stats 📈</h3>
 
 <div>
   <a href="https://github.com/dnbsammie/github-readme-stats">
-    <img height="200" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&rank_icon=github&show_icons=true&theme=transparent"/>
+    <img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&rank_icon=github&show_icons=true&theme=transparent"/>
   </a>
   <a href="https://github.com/dnbsammie/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&layout=donut&theme=transparent"/>
+    <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&layout=donut&theme=transparent"/>
   </a>
 </div>
 
 
-<h2>Projects 🗃</h2>
+<h2>Recent Projects 🗃</h2>
 
 <div>
   <a href="https://github.com/dnbsammie/Ordo">
@@ -37,11 +42,5 @@
   </a>
   <a href="https://github.com/dnbsammie/SoundMorph">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=soundmorph&theme=transparent"/>
-  </a>
-    <a href="https://github.com/dnbsammie/Aural">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=aural&theme=transparent"/>
-  </a>
-  <a href="https://github.com/dnbsammie/Overdrive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=overdrive&theme=transparent"/>
   </a>
 </div>
