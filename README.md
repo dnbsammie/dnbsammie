@@ -43,4 +43,10 @@
   <a href="https://github.com/dnbsammie/SoundMorph">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=soundmorph&theme=transparent"/>
   </a>
+    <a href="https://github.com/dnbsammie/Aural">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=aural&theme=transparent"/>
+  </a>
+  <a href="https://github.com/dnbsammie/Overdrive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=overdrive&theme=transparent"/>
+  </a>
 </div>
