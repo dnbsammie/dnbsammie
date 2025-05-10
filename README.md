@@ -1,6 +1,4 @@
-<h1 align="center">👋🏽 What's Up?</h1>
 <img src="./resources/banner.png" width="100%"></img>
-
 
 <h2 align="left">🤔 What About Me?</h2>
 <p>What's up? Welcome to my GitHub profile. I'm currently a software engineering student and I work with OOP languages like Java, C++ or C#. Apart from coding, my hobbies and passions are music, cars and video games, my personal projects start from ideas rooted in these. I am always looking for new opportunities to learn and grow professionally. Here you can find some of my most outstanding projects.</p>
@@ -11,13 +9,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js&theme=dark&perline=3" />
   </a>
 </p>
 <h3>Technologies & Tools 🔧</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,unity,vscode,visualstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,unity,vscode&theme=dark&perline=3" />
   </a>
 </p>
 <hr>
