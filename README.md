@@ -1,21 +1,14 @@
 <img src="./resources/banner.png" width="100%"></img>
 
-<h2 align="left">🤔 What About Me?</h2>
-<p>What's up? Welcome to my GitHub profile. I'm currently a software engineering student and I work with OOP languages like Java, C++ or C#. Apart from coding, my hobbies and passions are music, cars and video games, my personal projects start from ideas rooted in these. I am always looking for new opportunities to learn and grow professionally. Here you can find some of my most outstanding projects.</p>
+<p>What's up? Welcome to my GitHub profile. I'm Samuel Rivera, a software engineering student apassioanted about coding, music, motorsport and video games. I am always looking for new opportunities to learn and grow professionally. Here you can find some of my work.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnbsammie&label=Profile%20views&color=00040d&style=flat" alt="dnbsammie" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dnbsammie&label=Profile%20views&color=00040d&style=flat" alt="dnbsammie" /> </p>
 
-<h3>Languages 🔧</h3>
+<h3>Languages, Technologies & Tools 🔧</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js&theme=dark&perline=3" />
-  </a>
-</p>
-<h3>Technologies & Tools 🔧</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,unity,vscode&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,git,github,maven,gradle,unity,vscode&theme=dark" />
   </a>
 </p>
 <hr>
@@ -24,10 +17,10 @@
 
 <div>
   <a href="https://github.com/dnbsammie/github-readme-stats">
-    <img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&rank_icon=github&show_icons=true&theme=transparent"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&rank_icon=github&show_icons=true&theme=transparent"/>
   </a>
   <a href="https://github.com/dnbsammie/github-readme-stats">
-    <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&layout=donut&theme=transparent"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&layout=donut&theme=transparent"/>
   </a>
 </div>
 
