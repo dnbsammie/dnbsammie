@@ -2,7 +2,7 @@
 
 <h3>👋🏽 What's up?</h3>
 
-<p>Welcome to my GitHub profile. I'm Samuel Rivera, a software engineering student apassioanted about coding, music, motorsport and video games. I am always looking for new opportunities to learn and grow professionally. Here you can find some of my work.</p>
+<p>Welcome to my GitHub profile. I'm Samuel Rivera, a software engineering student apassioanted about coding, music and motorsport. I am always looking for new opportunities to learn and grow professionally. Here you can find some of my work or check my <a href="https://dnbsammie.github.io/portfolio/" target="_blank">portfolio</a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dnbsammie&label=Profile%20views&color=00040d&style=flat" alt="dnbsammie" /> </p>
 
