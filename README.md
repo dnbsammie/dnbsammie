@@ -10,36 +10,18 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,git,github,maven,gradle,unity,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,ts,git,vite,github,maven,gradle,vscode&theme=dark" />
   </a>
 </p>
 <hr>
 
-<h3>📈 My Github Stats</h3>
+<!-- <h3>📈 My Github Stats</h3> -->
 
-<div>
+<!-- <div>
   <a href="https://github.com/dnbsammie/github-readme-stats">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dnbsammie&rank_icon=github&show_icons=true&theme=transparent"/>
   </a>
   <a href="https://github.com/dnbsammie/github-readme-stats">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnbsammie&layout=donut&theme=transparent"/>
   </a>
-</div>
-
-
-<h2>💻 Recent Projects</h2>
-
-<div>
-  <a href="https://github.com/dnbsammie/Ordo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=ordo&theme=transparent"/>
-  </a>
-  <a href="https://github.com/dnbsammie/SoundMorph">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=soundmorph&theme=transparent"/>
-  </a>
-    <a href="https://github.com/dnbsammie/Aural">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=aural&theme=transparent"/>
-  </a>
-  <a href="https://github.com/dnbsammie/Overdrive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dnbsammie&repo=overdrive&theme=transparent"/>
-  </a>
-</div>
+</div> -->
